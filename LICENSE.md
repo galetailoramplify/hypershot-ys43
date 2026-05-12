@@ -1,4 +1,4 @@
-#  
+#  hypershot Script hidden offers the most advanced hypershot Script, with auto-sell and no clip. Perfect for dominating any match.
 
 
 
